@@ -18,8 +18,7 @@ This project is a simple chatbot application built using the Llama3 model via Gr
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo Simple-chatbot-with-Llama3
-.git
+    git clone https://github.com/your-repo Simple-chatbot-with-Llama3.git
     cd Simple-chatbot-with-Llama3
 
     ```
