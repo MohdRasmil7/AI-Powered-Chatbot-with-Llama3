@@ -1,4 +1,4 @@
-# Simple Chatbot with Llama3 🤖✨
+# Futuristic and Simple Chatbot with Llama3 🤖✨
 
 ## Overview
 
