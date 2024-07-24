@@ -29,7 +29,7 @@ prompt=ChatPromptTemplate.from_messages(
 
 ## streamlit framework
 
-st.title('Langchain Demo with Llama3')
+st.title('Simple chatbot with Llama3')
 input_text=st.text_input("search the topic you want")
 
 
