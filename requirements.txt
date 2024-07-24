@@ -3,3 +3,7 @@ langchain_core
 streamlit
 langchain_community
 langchain_core
+langserve
+langchain_groq
+dotenv
+fastapi

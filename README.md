@@ -4,7 +4,7 @@
 
 This project is a simple chatbot application built using the Llama3 model via Groq API and LangChain. The chatbot is designed to provide intelligent and smart responses to user queries. It leverages the power of advanced language models to enhance user interaction.
 
-![](assets/demo.png)
+![](assets/image.png)
 
 ## Features
 
@@ -17,32 +17,32 @@ This project is a simple chatbot application built using the Llama3 model via Gr
 
 1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/your-repo Simple-chatbot-with-Llama3.git
-    cd Simple-chatbot-with-Llama3
+   ```bash
+   git clone https://github.com/your-repo Simple-chatbot-with-Llama3.git
+   cd Simple-chatbot-with-Llama3
 
-    ```
+   ```
 
 2. **Install the required packages:**
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Set up environment variables:**
 
-    Create a `.env` file in the root directory and add your API keys:
+   Create a `.env` file in the root directory and add your API keys:
 
-    ```plaintext
-    GROQ_API_KEY=your_groq_api_key
-    LANGCHAIN_API_KEY=your_langchain_api_key
-    ```
+   ```plaintext
+   GROQ_API_KEY=your_groq_api_key
+   LANGCHAIN_API_KEY=your_langchain_api_key
+   ```
 
 4. **Run the Streamlit application:**
 
-    ```bash
-    streamlit run app.py
-    ```
+   ```bash
+   streamlit run app.py
+   ```
 
 ## Technologies Used
 
